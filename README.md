@@ -1,4 +1,8 @@
-# movies
+# Application can be seen here
+
+### https://movie-searching.netlify.com/
+
+# How to get started?  
 
 ## Project setup
 ```
